@@ -101,13 +101,13 @@
 	    <repository>
 	      <id>nexus</id>
 	      <name>Mithun Technologies Releases Nexus Repository</name>
-	      <url>http://35.222.174.218:8081/repository/AIP-releases/</url>
+	      <url>http://104.154.62.49:8081/repository/AIP-releases/</url>
 	    </repository>
 	    
 	    <snapshotRepository>
 	      <id>nexus</id>
 	      <name>Mithun Technologies Snapshot Nexus Repository </name>
-	      <url>http://35.222.174.218:8081/repository/AIP-snapshot/</url>
+	      <url>http://104.154.62.49:8081/repository/AIP-snapshot/</url>
 	    </snapshotRepository>
 	    
 	</distributionManagement>
